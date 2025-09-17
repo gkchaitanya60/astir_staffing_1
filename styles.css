@@ -34,8 +34,8 @@ body {
 .custom-navbar.scrolled .logo-light { display: inline-block; }
 
 /* optional: shrink logo a bit when scrolled */
-.custom-navbar .logo { height: 65px; }
-.custom-navbar.scrolled .logo { height: 65px; }
+.custom-navbar .logo { height: 70px; }
+.custom-navbar.scrolled .logo { height: 70px; }
 
 /* Custom Navbar */
 .custom-navbar {
